@@ -3,5 +3,4 @@
   "extends": [
     "local>ladzaretti-testing/renovate-config"
   ]
-  
 }
